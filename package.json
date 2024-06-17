@@ -1,5 +1,5 @@
 {
-  "name": "bedrock",
+  "name": "bedrock-ai-dynamodb-agent-example",
   "version": "0.1.0",
   "bin": {
     "bedrock": "bin/bedrock.js"
@@ -8,19 +8,22 @@
     "build": "tsc",
     "watch": "tsc -w",
     "test": "jest",
+    "deploy:sampleData": "node scripts/insert-data.mjs",
     "cdk": "cdk"
   },
   "devDependencies": {
     "@types/jest": "^29.5.12",
     "@types/node": "20.12.7",
+    "aws-cdk": "2.145.0",
     "jest": "^29.7.0",
     "ts-jest": "^29.1.2",
-    "aws-cdk": "2.145.0",
     "ts-node": "^10.9.2",
     "typescript": "~5.4.5"
   },
   "dependencies": {
-    "aws-cdk-lib": "2.145.0",
+    "@aws-sdk/client-dynamodb": "^3.386.0",
+    "@aws-sdk/lib-dynamodb": "^3.387.0",
+    "aws-cdk-lib": "^2.146.0",
     "constructs": "^10.0.0",
     "source-map-support": "^0.5.21"
   }

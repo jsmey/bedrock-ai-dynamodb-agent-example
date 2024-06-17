@@ -1,0 +1,692 @@
+[
+    {
+        "id": {
+            "N": "1"
+        },
+        "model": {
+            "S": "Wrangler"
+        },
+        "year": {
+            "N": "2024"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "3.6L V6"
+        },
+        "transmission": {
+            "S": "8-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "2024"
+        },
+        "model": {
+            "S": "Grand Cherokee"
+        },
+        "year": {
+            "N": "2023"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "3.6L V6"
+        },
+        "transmission": {
+            "S": "8-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "3"
+        },
+        "model": {
+            "S": "Gladiator"
+        },
+        "year": {
+            "N": "2022"
+        },
+        "type": {
+            "S": "Pickup Truck"
+        },
+        "engine": {
+            "S": "3.6L V6"
+        },
+        "transmission": {
+            "S": "8-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "4"
+        },
+        "model": {
+            "S": "Compass"
+        },
+        "year": {
+            "N": "2021"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "2.4L I4"
+        },
+        "transmission": {
+            "S": "9-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "5"
+        },
+        "model": {
+            "S": "Renegade"
+        },
+        "year": {
+            "N": "2020"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "1.3L Turbo"
+        },
+        "transmission": {
+            "S": "9-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "6"
+        },
+        "model": {
+            "S": "Cherokee"
+        },
+        "year": {
+            "N": "2019"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "2.4L I4"
+        },
+        "transmission": {
+            "S": "9-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "7"
+        },
+        "model": {
+            "S": "Wrangler Unlimited"
+        },
+        "year": {
+            "N": "2018"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "3.6L V6"
+        },
+        "transmission": {
+            "S": "8-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "8"
+        },
+        "model": {
+            "S": "Wrangler"
+        },
+        "year": {
+            "N": "2017"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "3.6L V6"
+        },
+        "transmission": {
+            "S": "6-speed manual"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "9"
+        },
+        "model": {
+            "S": "Grand Cherokee"
+        },
+        "year": {
+            "N": "2016"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "3.6L V6"
+        },
+        "transmission": {
+            "S": "8-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "10"
+        },
+        "model": {
+            "S": "Patriot"
+        },
+        "year": {
+            "N": "2015"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "2.4L I4"
+        },
+        "transmission": {
+            "S": "6-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "11"
+        },
+        "model": {
+            "S": "Wrangler Unlimited"
+        },
+        "year": {
+            "N": "2014"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "3.6L V6"
+        },
+        "transmission": {
+            "S": "6-speed manual"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "12"
+        },
+        "model": {
+            "S": "Cherokee"
+        },
+        "year": {
+            "N": "2013"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "3.2L V6"
+        },
+        "transmission": {
+            "S": "9-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "13"
+        },
+        "model": {
+            "S": "Compass"
+        },
+        "year": {
+            "N": "2012"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "2.4L I4"
+        },
+        "transmission": {
+            "S": "CVT"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "14"
+        },
+        "model": {
+            "S": "Wrangler"
+        },
+        "year": {
+            "N": "2011"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "3.8L V6"
+        },
+        "transmission": {
+            "S": "6-speed manual"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "15"
+        },
+        "model": {
+            "S": "Grand Cherokee"
+        },
+        "year": {
+            "N": "2010"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "3.7L V6"
+        },
+        "transmission": {
+            "S": "5-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "16"
+        },
+        "model": {
+            "S": "Liberty"
+        },
+        "year": {
+            "N": "2009"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "3.7L V6"
+        },
+        "transmission": {
+            "S": "4-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "17"
+        },
+        "model": {
+            "S": "Commander"
+        },
+        "year": {
+            "N": "2008"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "4.7L V8"
+        },
+        "transmission": {
+            "S": "5-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "18"
+        },
+        "model": {
+            "S": "Patriot"
+        },
+        "year": {
+            "N": "2007"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "2.4L I4"
+        },
+        "transmission": {
+            "S": "CVT"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "19"
+        },
+        "model": {
+            "S": "Wrangler Unlimited"
+        },
+        "year": {
+            "N": "2006"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "4.0L I6"
+        },
+        "transmission": {
+            "S": "6-speed manual"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "20"
+        },
+        "model": {
+            "S": "Grand Cherokee"
+        },
+        "year": {
+            "N": "2005"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "4.7L V8"
+        },
+        "transmission": {
+            "S": "5-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "21"
+        },
+        "model": {
+            "S": "Wrangler"
+        },
+        "year": {
+            "N": "2004"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "4.0L I6"
+        },
+        "transmission": {
+            "S": "5-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "22"
+        },
+        "model": {
+            "S": "Liberty"
+        },
+        "year": {
+            "N": "2003"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "3.7L V6"
+        },
+        "transmission": {
+            "S": "4-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "23"
+        },
+        "model": {
+            "S": "Grand Cherokee"
+        },
+        "year": {
+            "N": "2002"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "4.7L V8"
+        },
+        "transmission": {
+            "S": "4-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "24"
+        },
+        "model": {
+            "S": "Wrangler"
+        },
+        "year": {
+            "N": "2001"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "4.0L I6"
+        },
+        "transmission": {
+            "S": "5-speed manual"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "25"
+        },
+        "model": {
+            "S": "Cherokee"
+        },
+        "year": {
+            "N": "2000"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "4.0L I6"
+        },
+        "transmission": {
+            "S": "4-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "26"
+        },
+        "model": {
+            "S": "Grand Cherokee"
+        },
+        "year": {
+            "N": "1999"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "4.7L V8"
+        },
+        "transmission": {
+            "S": "4-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "27"
+        },
+        "model": {
+            "S": "Wrangler"
+        },
+        "year": {
+            "N": "1998"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "4.0L I6"
+        },
+        "transmission": {
+            "S": "5-speed manual"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "28"
+        },
+        "model": {
+            "S": "Grand Cherokee"
+        },
+        "year": {
+            "N": "1997"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "4.0L I6"
+        },
+        "transmission": {
+            "S": "4-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "29"
+        },
+        "model": {
+            "S": "Wrangler"
+        },
+        "year": {
+            "N": "1996"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "4.0L I6"
+        },
+        "transmission": {
+            "S": "5-speed manual"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    },
+    {
+        "id": {
+            "N": "30"
+        },
+        "model": {
+            "S": "Grand Cherokee"
+        },
+        "year": {
+            "N": "1995"
+        },
+        "type": {
+            "S": "SUV"
+        },
+        "engine": {
+            "S": "5.2L V8"
+        },
+        "transmission": {
+            "S": "4-speed automatic"
+        },
+        "drivetrain": {
+            "S": "4x4"
+        }
+    }
+]
